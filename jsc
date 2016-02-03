@@ -1,0 +1,5 @@
+#!/usr/local/bin/bash
+
+# alternatively, just create a symlink
+/System/Library/Frameworks/JavaScriptCore.framework/Resources/jsc
+
